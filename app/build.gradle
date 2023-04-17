@@ -9,11 +9,11 @@ plugins {
 }
 
 android {
-    namespace 'com.toadfrogson.horrorhub'
+    namespace 'com.toadfrogson.dirtplate'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.toadfrogson.horrorhub"
+        applicationId "com.toadfrogson.dirtplate"
         minSdk 28
         targetSdk 33
         versionCode 1
